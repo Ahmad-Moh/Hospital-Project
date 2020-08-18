@@ -1,0 +1,48 @@
+*{
+    font-family: 'janna lt';
+    box-sizing: border-box;
+    direction: rtl;
+}
+.logo{
+    text-align: center;
+    margin: 40px 0;
+}
+.logo img{
+    width: 100px;
+}
+.logo h2{
+    font-size: 35px;
+    font-weight: bolder;
+    color: #008fd1;
+
+}
+.book{
+    text-align: center
+}
+.book p{
+    font-size: 24px;
+    color: #008fd1;
+}
+
+.book input{
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.book input[type="submit"]{
+    font-size: 30px;
+    color: #fff;
+    background: #008fd1;
+    border: none;
+}
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+th{
+    background: #008fd1;
+    color: #fff;
+    padding: 5px 0;
+}

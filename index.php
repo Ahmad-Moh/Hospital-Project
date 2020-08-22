@@ -56,9 +56,6 @@
 
                     echo "<p style='color:#008fd1'>" . "تم الحجز" . "</p>";
                 }
-                else{
-                    echo "<p style='color:red'>" . "عفواً حدث خطأ .. حاول مرة أخرى " . "</p>";
-                }
             ?>
 
         </div>
